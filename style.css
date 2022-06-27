@@ -1,0 +1,25 @@
+body{
+  background-color: rgba(32, 224, 160, 0.737);
+  background-image: url("imges/pexels-aleksandar-pasaric-325185.jpg");
+}
+#container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+#header_site{
+  display: flex;
+  justify-content: center;
+}
+#selcet_cities{
+  height: 20vh; 
+  display: flex;
+ justify-content: center;
+}
+#btn_weather{
+  background-color: rgb(58, 218, 151);
+}
+#btn_div{
+  display: flex;
+ justify-self: center;
+}
